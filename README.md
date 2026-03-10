@@ -1,2 +1,3 @@
 Product-Inventory-Management
-https://github.com/Navina-dotcom/Product-Inventory-Management-system.git
+https://drive.google.com/file/d/14hvk97FGd0cppXJPpZXnwCSqsr-pFS1l/view?usp=sharing
+
